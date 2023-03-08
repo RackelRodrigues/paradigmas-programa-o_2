@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+
+}
+
+#titulo {
+    text-align: center;
+    color: #8B0000;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.animal {
+    font-weight: bold;
+
+}
+
+.titulo {
+    font-weight: bold;
+    color: black;
+}
+
+button {
+    font-weight: bold;
+}
+
+#calculo {
+    margin: auto;
+    width: 50%;
+    border: 3px solid;
+    padding: 10px;
+}
+
+#calculonota {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #B22222;
+    padding: 10px;
+}
